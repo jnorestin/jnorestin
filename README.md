@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan Norestin A software Developer from Haiti 🇭🇹 living in miami 🇺🇸
-- 👀 I’m can Design and Build software from Thoughts to reality. 
+- 👀 I Design and Build software from Thoughts to reality. 
 - 🌱 I Know HTML, CSS, JAVASCRIPT, REACT.JS, PYTHON 
 - 💞️ I’m looking to collaborate on starting a company 
 - 📫 How to reach me jnorestin@gmail.com
